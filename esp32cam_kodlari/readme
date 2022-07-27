@@ -1,1 +1,2 @@
-
+Checkpoint1 ve Checkpoint2'de öğrenci bu noktalara geldiği zaman sadece geldiğine dair bilgiler firebase veritabanına gitmektedir. 
+CheckPoint3'de ise öğrencinin o konuma geldiğinin bilgisinin yanında öğrencinin fotoğrafı da firebase'e kaydedilmekte ve mobil uygulama da gösterilmektedir.
